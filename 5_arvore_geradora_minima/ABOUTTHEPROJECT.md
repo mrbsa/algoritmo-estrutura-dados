@@ -1,0 +1,1 @@
+Projeto realizado em dupla que compõe a nota da segunda unidade. O código produz uma árvore geradora mínima de acordo com o algoritmo de Kruskal e utiliza uma base de dados retirada da internet. Mais informações no PDF do relatório. 
