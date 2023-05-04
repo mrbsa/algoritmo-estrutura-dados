@@ -1,4 +1,4 @@
-adelaide_data = open('adelaide.CSV', 'r').readlines()[1:201] # a primeira linha é o título e não faz parte dos dados
+adelaide_data = open('adelaide.CSV', 'r').readlines()[1:201]  # a primeira linha é o título e não faz parte dos dados
 adelaide_data
 
 # Formatação do dataset
